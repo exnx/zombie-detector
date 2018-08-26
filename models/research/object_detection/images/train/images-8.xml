@@ -1,0 +1,26 @@
+<annotation>
+	<folder>zombie-images</folder>
+	<filename>images-8.jpeg</filename>
+	<path>/Users/ericnguyen/Desktop/zombie-images/images-8.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>276</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zombie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>149</xmin>
+			<ymin>48</ymin>
+			<xmax>213</xmax>
+			<ymax>89</ymax>
+		</bndbox>
+	</object>
+</annotation>
